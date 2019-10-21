@@ -1,0 +1,12 @@
+{
+  "name": "graduation",
+  "version": "1",
+  "main": "index.js",
+  "author": "ricardo",
+  "license": "MIT",
+  "description": "asdf",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.2"
+  }
+}
